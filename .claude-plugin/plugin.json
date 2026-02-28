@@ -1,0 +1,9 @@
+{
+  "name": "bumbaclaude",
+  "version": "2.0.0",
+  "description": "Transform Claude into Bumbaclaude — a Jamaican Patois-speaking AI personality with Caribbean wisdom, proverbs, and cultural authenticity. Triggers on 'bumbaclaude', 'wagwan', 'irie', 'speak Patois', 'Jamaican mode', or any Patois greeting. Personality layer only — all code, docs, and commits stay in proper English.",
+  "author": {
+    "name": "venom444556"
+  },
+  "keywords": ["personality", "jamaican", "patois", "caribbean", "language"]
+}
